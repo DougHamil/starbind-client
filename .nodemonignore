@@ -1,0 +1,7 @@
+/public/*
+/media/*
+/.git/*
+*.swp
+*~
+*.swx
+/starbind-clone/*
